@@ -1,0 +1,16 @@
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.csproj.AssemblyReference.cache
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.AssemblyInfoInputs.cache
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.AssemblyInfo.cs
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.csproj.CoreCompileInputs.cache
+D:\Projetos .NET\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.exe
+D:\Projetos .NET\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.deps.json
+D:\Projetos .NET\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.runtimeconfig.json
+D:\Projetos .NET\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.runtimeconfig.dev.json
+D:\Projetos .NET\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.dll
+D:\Projetos .NET\File_and_FileInfo\bin\Debug\net5.0\ref\File_and_FileInfo.dll
+D:\Projetos .NET\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.pdb
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.dll
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\ref\File_and_FileInfo.dll
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.pdb
+D:\Projetos .NET\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.genruntimeconfig.cache

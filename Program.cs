@@ -1,12 +1,20 @@
 ﻿using System;
+using System.IO;
+using static System.Console;
 
-namespace File_and_FileInfo
+WriteLine("Digite o nome do arquivo");
+var nome = ReadLine();
+
+var path = Path.Combine(Environment.CurrentDirectory, $"{nome}.txt");
+
+CriarArquivo(path);
+
+static void CriarArquivo(string path)
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
+    var sw = File.CreateText(path);
+
+    sw.WriteLine("Primeira linha do arquivo");
+    sw.Flush();
 }
+
+
